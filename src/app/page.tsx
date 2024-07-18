@@ -79,7 +79,7 @@ function Home() {
                     </div>
                 </div>
                 {/* 이미지 슬라이드 */}
-                <div className="mt-7 my-40">
+                <div className="mt-7 my-40 w-full overflow-x-scroll">
                     <Slider width="314px" duration={100} pauseOnHover={true} blurBorders={false} blurBoderColor={"#ffffff"}>
                         {movieJson.map((item) => {
                             return (
