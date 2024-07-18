@@ -48,7 +48,7 @@ function Home() {
             <section className={styles.page__section}>
                 {/* 동영상 */}
                 <div className={styles.page__section__video}>
-                    <video controls muted autoPlay playsinline loop style={{ height: 100 + "%" }}>
+                    <video controls muted autoPlay loop style={{ height: 100 + "%" }}>
                         <source src="/movie.mp4" type="video/mp4" />
                     </video>
                     <div className="absolute bottom-0 flex flex-col items-start justify-end w-[1000px] h-full pb-16">
@@ -98,7 +98,7 @@ function Home() {
             <section className={styles.page__section}>
                 {/* 동영상 */}
                 <div className={styles.page__section__video}>
-                    <video controls muted autoPlay playsinline loop style={{ width: 100 + "%" }}>
+                    <video controls muted autoPlay loop style={{ width: 100 + "%" }}>
                         <source src="/music.mp4" type="video/mp4" />
                     </video>
                     <div className="absolute bottom-0 flex flex-col items-start justify-end w-[1000px] h-[828px] pb-16">
