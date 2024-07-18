@@ -3,6 +3,7 @@
 import menuJson from "../../public/assets/json/menu.json";
 import movieJson from "../../public/assets/json/movie.json";
 import Slider from "react-infinite-logo-slider";
+
 // Shadcn UI
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
