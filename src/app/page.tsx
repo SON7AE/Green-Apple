@@ -82,7 +82,7 @@ function Home() {
                     <Slider width="314px" duration={100} pauseOnHover={true} blurBorders={false} blurBoderColor={"#ffffff"}>
                         {movieJson.map((item) => {
                             return (
-                                <div className="flex flex-col gap-2 mr-4 bg-white">
+                                <div className="flex flex-col gap-2 mr-4 bg-white" key={item.title}>
                                     <img src={item.imgUrl} alt="" className="w-full rounded-md" />
                                     <div className="flex flex-col">
                                         <span className="text-sm text-zinc-900">{item.title}</span>
