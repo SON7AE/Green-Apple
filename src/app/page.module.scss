@@ -1,0 +1,129 @@
+.page {
+    width: 100%;
+    background-color: black;
+
+    &__section {
+        width: 100%;
+        height: fit-content;
+
+        display: flex;
+
+        &:nth-child(1) {
+            height: 796px;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+        }
+        &:nth-child(2) {
+            height: fit-content;
+            flex-direction: column;
+            align-items: center;
+            background-color: #ffffff;
+        }
+        &:nth-child(3) {
+            flex-direction: column;
+            align-items: center;
+            background-color: #ffffff;
+        }
+
+        &__menu {
+            width: 100%;
+            height: 120px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            gap: 32px;
+
+            .item {
+                width: fit-content;
+                height: 72px;
+
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+
+                gap: 2px;
+
+                cursor: pointer;
+
+                &__label {
+                    font-weight: 300;
+                    font-size: 12px;
+
+                    color: #ffffff;
+                }
+                &:hover {
+                    .item__label {
+                        color: #2997ff;
+                    }
+                }
+            }
+        }
+        &__text-box {
+            width: 100%;
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            margin-top: 64px;
+            margin-bottom: 70px;
+
+            color: #ffffff;
+
+            .main {
+                font-weight: 900;
+                font-size: 5rem;
+                line-height: 100px;
+
+                &:last-child {
+                    margin-bottom: 24px;
+                }
+            }
+            .desc {
+                font-weight: 500;
+                font-size: 1.35rem;
+            }
+        }
+        &__banner {
+            width: 100%;
+            height: 144px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            background-color: #161617;
+
+            gap: 0 180px;
+
+            .img {
+                height: 100px;
+                margin-bottom: 40px;
+            }
+            .text {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+
+                font-weight: 500;
+                font-size: 20px;
+                color: #ffffff;
+            }
+        }
+        &__video {
+            position: relative;
+
+            width: 100%;
+            height: 856px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}

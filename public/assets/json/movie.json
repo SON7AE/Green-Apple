@@ -1,0 +1,102 @@
+[
+    {
+        "imgUrl": "/assets/images/01.jpg",
+        "title": "포 올 맨카인드 - For All Mankind",
+        "genre": "드라마"
+    },
+    {
+        "imgUrl": "/assets/images/02.jpg",
+        "title": "레슨 인 케미스트리 - Lessons in Chemistry",
+        "genre": "드라마"
+    },
+    {
+        "imgUrl": "/assets/images/03.jpg",
+        "title": "더 모닝쇼 - The Morning Show",
+        "genre": "드라마"
+    },
+    {
+        "imgUrl": "/assets/images/04.jpg",
+        "title": "파운데이션 - Foundation",
+        "genre": "SF"
+    },
+    {
+        "imgUrl": "/assets/images/05.jpg",
+        "title": "하이재킹 - Hijack",
+        "genre": "스릴러"
+    },
+    {
+        "imgUrl": "/assets/images/06.jpg",
+        "title": "프래글 록: 화려환 귀환",
+        "genre": "키즈 & 가족"
+    },
+    {
+        "imgUrl": "/assets/images/07.jpg",
+        "title": "그가 나에게 말하지 않은 것",
+        "genre": "미스테리"
+    },
+    {
+        "imgUrl": "/assets/images/08.jpg",
+        "title": "맵다 매워! 지미의 상담소 - Shrinking",
+        "genre": "코미디"
+    },
+    {
+        "imgUrl": "/assets/images/09.jpg",
+        "title": "패밀리 플랜 - The Familly Plan",
+        "genre": "코미디"
+    },
+    {
+        "imgUrl": "/assets/images/10.jpg",
+        "title": "할리우드 사기의 여왕",
+        "genre": "다큐멘터리"
+    },
+    {
+        "imgUrl": "/assets/images/11.jpg",
+        "title": "팬시 댄스",
+        "genre": "드라마"
+    },
+    {
+        "imgUrl": "/assets/images/12.jpg",
+        "title": "무죄추정",
+        "genre": "범죄"
+    },
+    {
+        "imgUrl": "/assets/images/13.jpg",
+        "title": "랜드 오브 우먼",
+        "genre": "코미디"
+    },
+    {
+        "imgUrl": "/assets/images/14.jpg",
+        "title": "30일의 밤 - Dark Matter",
+        "genre": "SF"
+    },
+    {
+        "imgUrl": "/assets/images/15.jpg",
+        "title": "테드 레소 - Ted Lasso",
+        "genre": "코미디"
+    },
+    {
+        "imgUrl": "/assets/images/16.jpg",
+        "title": "스티브 마틴! 코미디 전설의 인생 2부작",
+        "genre": "다큐멘터리"
+    },
+    {
+        "imgUrl": "/assets/images/17.jpg",
+        "title": "유진 레비: 여행 혐오자의 일탈 여행",
+        "genre": "여행"
+    },
+    {
+        "imgUrl": "/assets/images/18.jpg",
+        "title": "플라워 킬링 문 - Killers of the Flower moon",
+        "genre": "범죄"
+    },
+    {
+        "imgUrl": "/assets/images/19.jpg",
+        "title": "모나크: 레거시 오브 몬스터즈",
+        "genre": ""
+    },
+    {
+        "imgUrl": "/assets/images/20.jpg",
+        "title": "",
+        "genre": ""
+    }
+]

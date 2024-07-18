@@ -1,0 +1,26 @@
+[
+    {
+        "imgUrl": "https://www.apple.com/v/services/h/images/services/chapternav/dark/apple_one_dark__eu2pb1ea55g2_large.svg",
+        "label": "Apple One"
+    },
+    {
+        "imgUrl": "https://www.apple.com/v/services/h/images/services/chapternav/dark/apple_tv_plus_dark__chseq8uiremq_large.svg",
+        "label": "Apple TV+"
+    },
+    {
+        "imgUrl": "https://www.apple.com/v/services/h/images/services/chapternav/dark/apple_music_dark__bhacur3ulple_large.svg",
+        "label": "Apple Music"
+    },
+    {
+        "imgUrl": "https://www.apple.com/v/services/h/images/services/chapternav/dark/apple_arcade_dark__ghynnqrgnguq_large.svg",
+        "label": "Apple Arcade"
+    },
+    {
+        "imgUrl": "https://www.apple.com/v/services/h/images/services/chapternav/dark/podcasts_dark__f2foq4r9qvyy_large.svg",
+        "label": "Apple Podcasts"
+    },
+    {
+        "imgUrl": "https://www.apple.com/v/services/h/images/services/chapternav/dark/books_dark__9v2055vsgb6a_large.svg",
+        "label": "Apple Books"
+    }
+]

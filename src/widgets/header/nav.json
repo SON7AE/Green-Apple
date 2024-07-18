@@ -1,0 +1,52 @@
+[
+    {
+        "label": "스토어",
+        "path": "/store",
+        "active": false
+    },
+    {
+        "label": "Mac",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "iPad",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "iPhone",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "Watch",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "AirPods",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "TV 및 홈",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "엔터테인먼트",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "액서서리",
+        "path": "/",
+        "active": false
+    },
+    {
+        "label": "고객지원",
+        "path": "/",
+        "active": false
+    }
+]
